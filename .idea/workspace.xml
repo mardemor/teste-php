@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
@@ -159,6 +162,7 @@
       <workItem from="1606091396746" duration="5926000" />
       <workItem from="1606132108682" duration="16323000" />
       <workItem from="1606154375691" duration="32000" />
+      <workItem from="1606221518532" duration="989000" />
     </task>
     <servers />
   </component>
